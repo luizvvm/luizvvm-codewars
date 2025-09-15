@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/50654ddff44f800200000004/train/c target="_blank">Multiply</a></h2><h3>8 kyu</h3><p>This code does not execute properly. Try to figure out why.</p>
