@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/c target="_blank">Even or Odd</a></h2><h3>8 kyu</h3><p>Create a function that takes an integer as an argument and returns <code>"Even"</code> for even numbers or <code>"Odd"</code> for odd numbers.</p>
