@@ -1,0 +1,5 @@
+function better_than_average(classPoints, yourPoints)
+    media = sum(classPoints)
+    media = (media + yourPoints)/(length(classPoints) + 1)
+    return yourPoints > media
+end
